@@ -6,5 +6,5 @@ I am inspired by 阮一峰。
 
 手写，纸质，配合电脑看。
 
-[/Month201808_09](0831_.md)
+[https://github.com/gigileu4182/0temp_RAM/edit/master/Month201808_09/0831_.md](0831_.md)
 
